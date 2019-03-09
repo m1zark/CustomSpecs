@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "customtexturespec",
+    "name": "Customtexturespec",
+    "description": "Adds in new pokespec for custom textures",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "m1zark"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
